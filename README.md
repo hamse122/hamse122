@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamse-Mo </h1>
+<h1 align="center">Hi 💫, I'm Hamse-Mo </h1>
 <div align="center">
 
   <!-- Animated Typing Header -->
