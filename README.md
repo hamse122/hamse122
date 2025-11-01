@@ -104,8 +104,7 @@ Proficient in **Python, Django, ASP.NET, Next.js, and PostgreSQL**, I build **sc
 
 ### 📊 GitHub Stats & Activity  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamse122&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="150"/>
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=hamse122&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamse122&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
