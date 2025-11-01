@@ -104,12 +104,19 @@ Proficient in **Python, Django, ASP.NET, Next.js, and PostgreSQL**, I build **sc
 
 ### 📊 GitHub Stats & Activity  
 
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=hamse122&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="150"/>
+<p align="center">
+  <!-- GitHub Stats: public only, real-time update -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hamse122&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false&cache_seconds=60" 
+       alt="GitHub Public Stats" height="150"/>
+  
+  <!-- GitHub Streak: public contributions only -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamse122&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamse122&show_icons=true&layout=compact&theme=tokyonight&hide=hack,html" alt="Top Languages" height="150"/>
+  <!-- Top Languages: public repos only -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamse122&show_icons=true&layout=compact&theme=tokyonight&hide=hack,html&cache_seconds=60" 
+       alt="Top Languages Public" height="150"/>
 </p>
 
 
