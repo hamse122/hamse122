@@ -150,9 +150,3 @@ Proficient in **Python, Django, ASP.NET, Next.js, and PostgreSQL**, I build **sc
 
 
 ---
-
-<div align="center">
-  ### 🌐 Portfolio  
-  🔗 [https://your-portfolio-link](https://your-portfolio-link)  
-  ![Visitor Count](https://profile-counter.glitch.me/hamse122/count.svg)
-</div>
